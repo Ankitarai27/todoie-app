@@ -24,7 +24,7 @@ A simple and interactive **Todo Application** built using **React.js** that allo
 ---
 
 ## 📂 Project Structure
-
+```
 todoie-app/
 │
 ├── public/
@@ -44,7 +44,7 @@ todoie-app/
 │
 ├── package.json
 └── README.md
-
+```
 
 ---
 
