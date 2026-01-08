@@ -35,7 +35,8 @@ todoie-app/
 │ │ ├── Header.jsx
 │ │ ├── TodoItem.jsx
 │ │ ├── Button.jsx
-│ │ └── CounterComponent.jsx
+│ │ ├── CounterComponent.jsx
+| | └── MainHeading.jsx
 │ │
 │ ├── App.js
 │ ├── index.js
